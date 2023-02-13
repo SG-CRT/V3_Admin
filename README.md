@@ -2,4 +2,4 @@
 
 just a demo admin
 
-推送
+vscode 推送
